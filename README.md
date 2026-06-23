@@ -31,8 +31,8 @@
 ## Featured Projects
 
 ### Audio Streaming
-- **[ESP8266-BUG-I2S-MIC](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)** (28 stars) — Real-time I2S MEMS microphone streaming over UDP. 16-bit stereo capture and transmission. Includes SoX integration for Linux recording.
-- **[ESP32-BUG-I2S-MIC](https://github.com/aleiei/ESP32-BUG-I2S-MIC)** (22 stars) — Advanced version with 48 kHz stereo, async state machine, double-buffering. Professional streaming architecture.
+- **[ESP8266-BUG-I2S-MIC](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)** — Real-time I2S MEMS microphone streaming over UDP. 16-bit stereo capture and transmission. Includes SoX integration for Linux recording.
+- **[ESP32-BUG-I2S-MIC](https://github.com/aleiei/ESP32-BUG-I2S-MIC)** — Advanced version with 48 kHz stereo, async state machine, double-buffering. Professional streaming architecture.
 
 ### Video Streaming
 - **[ESP32-CAM-RTSP](https://github.com/aleiei/ESP32-CAM-RTSP)** — Full RTSP/1.0 server (OPTIONS, DESCRIBE, SETUP, PLAY, TEARDOWN) with UDP/TCP transport negotiation. MJPEG 10 fps XGA.
