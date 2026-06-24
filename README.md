@@ -1,19 +1,24 @@
 # Embedded Systems & RF Engineering
 
-Experience in embedded systems, telecommunications, and security. Work focused on **IoT**, **RF systems**, and **digital forensics**, with ATmega328P, ATmega2560, ESP32, STM32, Broadcom SoCs, and telecom/SDR platforms. Based in Rome, Italy.
+Embedded systems, telecommunications, and security. Focus on **IoT**, **RF systems**, and **digital forensics**, with ATmega328P, ATmega2560, ESP32, STM32, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems. Based in Rome, Italy.
 
 ## Core Expertise
 
 **Embedded Systems & Microcontrollers**
 - ESP8266, ESP32, ATmega328P, ATmega2560, STM32
+- STM32CubeIDE / STM32CubeMX for STM32 development
+- PIC microcontrollers with MPLAB X and XC toolchains
 - Real-time audio/video streaming and control systems
 - I2C, SPI, UART, RS-485 protocol implementation
 - Power management, EEPROM persistence, sensor integration
 
 **RF & Radio Systems**
 - GSM/cellular base station infrastructure (Osmocom/CalypsoBTS)
+- srsRAN 4G/5G
 - Antenna design and automatic tuning systems
 - RF parameter monitoring (Power, SWR, spectrum analysis)
+- SDR platforms: Ettus USRP B210/B200 series
+- Radio astronomy systems
 - Wireless protocols: nRF24L01, WiFi, Bluetooth
 - CAT protocols and amateur radio integration
 
@@ -31,30 +36,30 @@ Experience in embedded systems, telecommunications, and security. Work focused o
 ## Featured Projects
 
 ### Audio Streaming
-- **[ESP8266-BUG-I2S-MIC](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)** — Real-time I2S MEMS microphone streaming over UDP. 16-bit stereo capture and transmission. Includes SoX integration for Linux recording.
-- **[ESP32-BUG-I2S-MIC](https://github.com/aleiei/ESP32-BUG-I2S-MIC)** — ESP32 version with 48 kHz stereo, asynchronous state machine, and double-buffering.
+- **[ESP8266-BUG-I2S-MIC](https://github.com/aleiei/ESP8266-BUG-I2S-MIC)** — Real-time I2S MEMS microphone streaming over UDP; 16-bit stereo capture and transmission; SoX integration for Linux recording.
+- **[ESP32-BUG-I2S-MIC](https://github.com/aleiei/ESP32-BUG-I2S-MIC)** — 48 kHz stereo capture; asynchronous state machine; double-buffering.
 
 ### Video Streaming
-- **[ESP32-CAM-RTSP](https://github.com/aleiei/ESP32-CAM-RTSP)** — Full RTSP/1.0 server (OPTIONS, DESCRIBE, SETUP, PLAY, TEARDOWN) with UDP/TCP transport negotiation. MJPEG 10 fps XGA.
+- **[ESP32-CAM-RTSP](https://github.com/aleiei/ESP32-CAM-RTSP)** — RTSP/1.0 server (OPTIONS, DESCRIBE, SETUP, PLAY, TEARDOWN) with UDP/TCP transport negotiation; MJPEG 10 fps XGA.
 
 ### RF & Telecom Systems
-- **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — GSM base station toolkit based on CalypsoBTS and Osmocom. Includes an automated install and a Tkinter GUI. Supports OsmocomBB phones.
-- **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10. ATmega2560-based controller with ILI9341 display, stepper control, SWR measurement, and CAT protocol.
-- **[DX_Patrol_PA_monitor](https://github.com/aleiei/DX_Patrol_PA_monitor)** — PA monitor for power, SWR, and temperature with rotary encoder menu. Three firmware variants are available: base, 4-wire, and 3-wire fan.
+- **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — GSM base station toolkit based on CalypsoBTS and Osmocom; automated install; Tkinter GUI; OsmocomBB support.
+- **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10; ATmega2560-based controller; ILI9341 display; stepper control; SWR measurement; CAT protocol.
+- **[DX_Patrol_PA_monitor](https://github.com/aleiei/DX_Patrol_PA_monitor)** — PA monitor for power, SWR, and temperature; rotary encoder menu; firmware variants for base, 4-wire, and 3-wire fan configurations.
 
 ### Wireless Control Systems
 - **[TX-3-STEP-NANO-24L01](https://github.com/aleiei/TX-3-STEP-NANO-24L01)** & **[RX-3-STEP-NANO-24L01](https://github.com/aleiei/RX-3-STEP-NANO-24L01)** — TX/RX pair for 3-axis motorized slider control over nRF24L01.
-- **[Nano_Walkie_talkie_nRF24L01](https://github.com/aleiei/Nano_Walkie_talkie_nRF24L01)** — Digital walkie-talkie with nRF24L01 and RF24Audio. Includes OLED interface, signal strength, channel selection, and PTT control.
+- **[Nano_Walkie_talkie_nRF24L01](https://github.com/aleiei/Nano_Walkie_talkie_nRF24L01)** — Digital walkie-talkie with nRF24L01 and RF24Audio; OLED interface; signal strength, channel selection, and PTT control.
 
 ### Security & Tools
-- **[Deep-search](https://github.com/aleiei/Deep-search)** — File search for disk images (.img). Tkinter GUI, pytsk3 backend, type filters, CSV export.
-- **[Web_Scraper_pro](https://github.com/aleiei/Web_Scraper_pro)** — Chrome extension (Manifest V3) for CSS-based web scraping. Includes quick-scrape modes, CSV export, and history.
-- **[sysclock_gui](https://github.com/aleiei/sysclock_gui)** — System clock management GUI in Python and Tkinter, with light and dark themes.
+- **[Deep-search](https://github.com/aleiei/Deep-search)** — File search for disk images (.img); Tkinter GUI; pytsk3 backend; type filters; CSV export.
+- **[Web_Scraper_pro](https://github.com/aleiei/Web_Scraper_pro)** — Chrome extension (Manifest V3) for CSS-based web scraping; quick-scrape modes; CSV export; history.
+- **[sysclock_gui](https://github.com/aleiei/sysclock_gui)** — System clock management GUI in Python and Tkinter; light and dark themes.
 
 ## Tech Stack
 
 **Languages**: C/C++, Python, Bash, JavaScript, VHDL  
-**Platforms**: PlatformIO, AVR toolchains, Vivado, Broadcom SoCs  
+**Platforms**: PlatformIO, AVR toolchains, STM32CubeIDE, MPLAB X, Vivado, Broadcom SoCs  
 **Protocols**: RTSP, RTP, TCP/IP, UDP, UART, SPI, I2C, RS-485, nRF24L01, WiFi, GSM/UMTS, CAT  
 **Tools**: Git, Linux (primary), Wireshark, SoX, VLC  
 
@@ -63,4 +68,4 @@ Experience in embedded systems, telecommunications, and security. Work focused o
 - Practical over theoretical
 - Direct implementation when needed
 - Real-time constraints and timing analysis
-- Tested on ESP8266/32, ATmega328P/ATmega2560, and Broadcom SoCs
+- Tested on ESP8266/32, ATmega328P/ATmega2560, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems
