@@ -1,6 +1,6 @@
 # Embedded Systems & RF Engineering
 
-35+ years in embedded systems, telecommunications, and security. Specialized in **IoT**, **RF systems**, and **digital forensics**. Focus on practical, hardware-driven solutions with Arduino, ESP32, and telecom/SDR platforms. Based in Pomezia, Italy.
+35+ years in embedded systems, telecommunications, and security. Specialized in **IoT**, **RF systems**, and **digital forensics**. Focus on practical, hardware-driven solutions with Arduino, ESP32, STM32, and telecom/SDR platforms. Based in Rome, Italy.
 
 ## Core Expertise
 
