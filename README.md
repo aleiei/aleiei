@@ -65,7 +65,7 @@ Background in embedded systems, telecommunications, and security, with a focus o
 
 ## Design Approach
 
-- Practical over theoretical
-- Direct implementation when needed
-- Real-time constraints and timing analysis
-- Tested on ESP8266/32, ATmega328P/ATmega2560, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems
+- Preference for practical implementations when appropriate
+- Direct use of low-level interfaces when required
+- Attention to real-time constraints and timing analysis
+- Validation on ESP8266/32, ATmega328P/ATmega2560, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems
