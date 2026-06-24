@@ -13,8 +13,8 @@ Background in embedded systems, telecommunications, and security, with a focus o
 - Power management, EEPROM persistence, sensor integration
 
 **RF & Radio Systems**
-- GSM/cellular base station infrastructure (Osmocom BTS, CalypsoBTS)
-- srsRAN 4G/5G infrastructure
+- GSM/cellular base station infrastructure (Osmocom BTS, CalypsoBTS), validated with upstream repositories
+- srsRAN 4G/5G infrastructure, validated with upstream repositories
 - Antenna design and automatic tuning
 - RF parameter monitoring (Power, SWR, spectrum analysis)
 - SDR platforms: Ettus USRP B210/B200 series
@@ -43,8 +43,9 @@ Background in embedded systems, telecommunications, and security, with a focus o
 - **[ESP32-CAM-RTSP](https://github.com/aleiei/ESP32-CAM-RTSP)** — RTSP/1.0 server (OPTIONS, DESCRIBE, SETUP, PLAY, TEARDOWN) with UDP/TCP transport negotiation; MJPEG 10 fps XGA.
 
 ### RF & Telecom Systems
-- **[Rotator7](https://github.com/aleiei/Rotator7)** — Antenna rotator controller based on SARCnet MK1 Mini Rotator; LSM303DLHC magnetometer/accelerometer sensor; RS-485 link over MAX485; rotctld/Hamlib protocol; compatible with SDRangel Star Tracker, Satellite Tracker, and Radio Astronomy plugins.
-- **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — Osmocom BTS toolkit based on CalypsoBTS and Osmocom; automated install; Tkinter GUI; OsmocomBB support.
+- **[Rotator7](https://github.com/aleiei/Rotator7)** — Antenna rotator controller based on SARCnet MK1 Mini Rotator; LSM303AGR magnetometer/accelerometer sensor; RS-485 link over MAX485; rotctld/Hamlib protocol; compatible with SDRangel Star Tracker, Satellite Tracker, and Radio Astronomy plugins.
+- **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — Osmocom BTS toolkit based on CalypsoBTS and Osmocom; automated install; Tkinter GUI; OsmocomBB support; validated with upstream repositories.
+- **[LibreSDRB210](https://github.com/lmesserStep/LibreSDRB210)** — Vivado FPGA recompilation and adaptation of a B210 clone (AD9361, XC7A100T) with DAC7311IDCKR support for external reference input.
 - **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10; ATmega2560-based controller; ILI9341 display; stepper control; SWR measurement; CAT protocol.
 - **[DX_Patrol_PA_monitor](https://github.com/aleiei/DX_Patrol_PA_monitor)** — PA monitor for power, SWR, and temperature; rotary encoder menu; firmware variants for base, 4-wire, and 3-wire fan configurations.
 
