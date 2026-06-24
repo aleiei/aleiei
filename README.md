@@ -1,11 +1,11 @@
 # Embedded Systems & RF Engineering
 
-Background in embedded systems, telecommunications, and security, with a focus on **IoT**, **RF systems**, and **digital forensics**. Work covers ATmega328P, ATmega2560, ESP32, STM32, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems. Based in Rome, Italy.
+Background in embedded systems, telecommunications, and security, with a focus on **IoT**, **RF systems**, and **digital forensics**. Work covers ATmega328P, ATmega2560, PIC, ESP32, STM32, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems. Based in Rome, Italy.
 
 ## Core Expertise
 
 **Embedded Systems & Microcontrollers**
-- ESP8266, ESP32, ATmega328P, ATmega2560, STM32
+- ESP8266, ESP32, ATmega328P, ATmega2560, PIC, STM32, and other SoCs
 - STM32CubeIDE / STM32CubeMX for STM32 development
 - PIC microcontrollers with MPLAB X and XC toolchains
 - Real-time audio/video streaming and control systems
@@ -14,8 +14,8 @@ Background in embedded systems, telecommunications, and security, with a focus o
 
 **RF & Radio Systems**
 - GSM/cellular base station infrastructure (Osmocom BTS, CalypsoBTS)
-- srsRAN 4G/5G
-- Antenna design and automatic tuning systems
+- srsRAN 4G/5G infrastructure
+- Antenna design and automatic tuning
 - RF parameter monitoring (Power, SWR, spectrum analysis)
 - SDR platforms: Ettus USRP B210/B200 series
 - Radio astronomy systems
@@ -68,4 +68,4 @@ Background in embedded systems, telecommunications, and security, with a focus o
 - Preference for practical implementations when appropriate
 - Direct use of low-level interfaces when required
 - Attention to real-time constraints and timing analysis
-- Validation on ESP8266/32, ATmega328P/ATmega2560, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems
+- Validated on ESP8266/32, ATmega328P/ATmega2560, Broadcom SoCs, Ettus USRP B210/B200 SDR systems, and other SoCs
