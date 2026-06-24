@@ -1,11 +1,11 @@
 # Embedded Systems & RF Engineering
 
-Experience in embedded systems, telecommunications, and security. Work focused on **IoT**, **RF systems**, and **digital forensics**, with Arduino, ESP32, STM32, Broadcom SoCs, and telecom/SDR platforms. Based in Rome, Italy.
+Experience in embedded systems, telecommunications, and security. Work focused on **IoT**, **RF systems**, and **digital forensics**, with ATmega328P, ATmega2560, ESP32, STM32, Broadcom SoCs, and telecom/SDR platforms. Based in Rome, Italy.
 
 ## Core Expertise
 
 **Embedded Systems & Microcontrollers**
-- ESP8266, ESP32, Arduino (ATmega328, NANO, MEGA), STM32
+- ESP8266, ESP32, ATmega328P, ATmega2560, STM32
 - Real-time audio/video streaming and control systems
 - I2C, SPI, UART, RS-485 protocol implementation
 - Power management, EEPROM persistence, sensor integration
@@ -39,7 +39,7 @@ Experience in embedded systems, telecommunications, and security. Work focused o
 
 ### RF & Telecom Systems
 - **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — GSM base station toolkit based on CalypsoBTS and Osmocom. Includes an automated install and a Tkinter GUI. Supports OsmocomBB phones.
-- **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10. Arduino MEGA with ILI9341 display, stepper control, SWR measurement, and CAT protocol.
+- **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10. ATmega2560-based controller with ILI9341 display, stepper control, SWR measurement, and CAT protocol.
 - **[DX_Patrol_PA_monitor](https://github.com/aleiei/DX_Patrol_PA_monitor)** — PA monitor for power, SWR, and temperature with rotary encoder menu. Three firmware variants are available: base, 4-wire, and 3-wire fan.
 
 ### Wireless Control Systems
@@ -54,7 +54,7 @@ Experience in embedded systems, telecommunications, and security. Work focused o
 ## Tech Stack
 
 **Languages**: C/C++, Python, Bash, JavaScript, VHDL  
-**Platforms**: PlatformIO, Arduino IDE, Vivado, Broadcom SoCs  
+**Platforms**: PlatformIO, AVR toolchains, Vivado, Broadcom SoCs  
 **Protocols**: RTSP, RTP, TCP/IP, UDP, UART, SPI, I2C, RS-485, nRF24L01, WiFi, GSM/UMTS, CAT  
 **Tools**: Git, Linux (primary), Wireshark, SoX, VLC  
 
@@ -63,4 +63,4 @@ Experience in embedded systems, telecommunications, and security. Work focused o
 - Practical over theoretical
 - Direct implementation when needed
 - Real-time constraints and timing analysis
-- Tested on ESP8266/32, Arduino NANO/MEGA, and Broadcom SoCs
+- Tested on ESP8266/32, ATmega328P/ATmega2560, and Broadcom SoCs
