@@ -1,6 +1,6 @@
 # Embedded Systems & RF Engineering
 
-Embedded systems, telecommunications, and security. Focus on **IoT**, **RF systems**, and **digital forensics**, with ATmega328P, ATmega2560, ESP32, STM32, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems. Based in Rome, Italy.
+Background in embedded systems, telecommunications, and security, with a focus on **IoT**, **RF systems**, and **digital forensics**. Work covers ATmega328P, ATmega2560, ESP32, STM32, Broadcom SoCs, and Ettus USRP B210/B200 SDR systems. Based in Rome, Italy.
 
 ## Core Expertise
 
@@ -9,11 +9,11 @@ Embedded systems, telecommunications, and security. Focus on **IoT**, **RF syste
 - STM32CubeIDE / STM32CubeMX for STM32 development
 - PIC microcontrollers with MPLAB X and XC toolchains
 - Real-time audio/video streaming and control systems
-- I2C, SPI, UART, RS-485 protocol implementation
+- I2C, SPI, UART, and RS-485 protocol implementation
 - Power management, EEPROM persistence, sensor integration
 
 **RF & Radio Systems**
-- GSM/cellular base station infrastructure (Osmocom/CalypsoBTS)
+- GSM/cellular base station infrastructure (Osmocom BTS, CalypsoBTS)
 - srsRAN 4G/5G
 - Antenna design and automatic tuning systems
 - RF parameter monitoring (Power, SWR, spectrum analysis)
@@ -43,7 +43,7 @@ Embedded systems, telecommunications, and security. Focus on **IoT**, **RF syste
 - **[ESP32-CAM-RTSP](https://github.com/aleiei/ESP32-CAM-RTSP)** — RTSP/1.0 server (OPTIONS, DESCRIBE, SETUP, PLAY, TEARDOWN) with UDP/TCP transport negotiation; MJPEG 10 fps XGA.
 
 ### RF & Telecom Systems
-- **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — GSM base station toolkit based on CalypsoBTS and Osmocom; automated install; Tkinter GUI; OsmocomBB support.
+- **[Calypso_BTS](https://github.com/aleiei/Calypso_BTS)** — Osmocom BTS toolkit based on CalypsoBTS and Osmocom; automated install; Tkinter GUI; OsmocomBB support.
 - **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10; ATmega2560-based controller; ILI9341 display; stepper control; SWR measurement; CAT protocol.
 - **[DX_Patrol_PA_monitor](https://github.com/aleiei/DX_Patrol_PA_monitor)** — PA monitor for power, SWR, and temperature; rotary encoder menu; firmware variants for base, 4-wire, and 3-wire fan configurations.
 
