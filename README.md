@@ -4,7 +4,7 @@ Background in embedded systems, telecommunications, and security, with a focus o
 
 ## Core Expertise
 
-**Embedded Systems & Microcontrollers**
+**Embedded Systems, Microcontrollers & Desktop Tools**
 - ESP8266, ESP32, ATmega328P, ATmega2560, PIC, STM32, and other SoCs
 - STM32CubeIDE / STM32CubeMX for STM32 development
 - PIC microcontrollers with MPLAB X and XC toolchains
