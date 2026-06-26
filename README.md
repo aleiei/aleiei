@@ -48,6 +48,7 @@ Background in embedded systems, telecommunications, and security, with a focus o
 - **[LibreSDRB210](https://github.com/lmesserStep/LibreSDRB210)** — Vivado FPGA recompilation and adaptation of a B210 clone (AD9361, XC7A100T) with DAC7311IDCKR support for external reference input.
 - **[Loop_Mag_Auto_Tuner_FTDX-10](https://github.com/aleiei/Loop_Mag_Auto_Tuner_FTDX-10)** — Automatic magnetic loop tuner for Yaesu FTDX-10; ATmega2560-based controller; ILI9341 display; stepper control; SWR measurement; CAT protocol.
 - **[DX_Patrol_PA_monitor](https://github.com/aleiei/DX_Patrol_PA_monitor)** — PA monitor for power, SWR, and temperature; rotary encoder menu; firmware variants for base, 4-wire, and 3-wire fan configurations.
+- **[rf_spectrum_art](https://github.com/aleiei/rf_spectrum_art)** — Python Tkinter desktop app that converts text/images into SDR waterfall audio (WAV), with playback, CAT/PTT radio control (Yaesu/XIEGU/FT-736R), presets, and profile management.
 
 ### Wireless Control Systems
 - **[TX-3-STEP-NANO-24L01](https://github.com/aleiei/TX-3-STEP-NANO-24L01)** & **[RX-3-STEP-NANO-24L01](https://github.com/aleiei/RX-3-STEP-NANO-24L01)** — TX/RX pair for 3-axis motorized slider control over nRF24L01.
