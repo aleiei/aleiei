@@ -86,4 +86,4 @@ Professional work has been carried out in telecommunications, RF, and industrial
 
 The focus of this GitHub is to document practical implementations and technical explorations across embedded systems, RF, networking, and communication technologies.
 
-[![Profile views](https://u8views.com/api/v1/github/profiles/aleiei/views/day-week-month-total-count.svg)](https://u8views.com/github/aleiei)
+[![Alessandro Orlando profile views](https://u8views.com/api/v1/github/profiles/9390761/views/day-week-month-total-count.svg)](https://u8views.com/github/aleiei)
