@@ -85,3 +85,5 @@ This repository contains only personal projects developed for study and experime
 Professional work has been carried out in telecommunications, RF, and industrial communication environments, including roles involving system integration and technical project management. Due to confidentiality constraints, most of this work cannot be shared publicly.
 
 The focus of this GitHub is to document practical implementations and technical explorations across embedded systems, RF, networking, and communication technologies.
+
+[![Profile views](https://u8views.com/api/v1/github/profiles/aleiei/views/day-week-month-total-count.svg)](https://u8views.com/github/aleiei)
